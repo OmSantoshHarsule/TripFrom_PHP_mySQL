@@ -1,6 +1,6 @@
 # 🧳 Industrial Trip Form (PHP + MySQL)
 
-This is a simple web application built with **PHP**, **MySQL**, and **HTML/CSS** to collect and store participant details for an industrial trip organized by **DYPCOE (Dr. D.Y. Patil College of Engineering)**.
+This is a simple web application built with **PHP**, **MySQL**, and **HTML/CSS** to collect and store participant details for an industrial trip 
 
 ## 🚀 Features
 
